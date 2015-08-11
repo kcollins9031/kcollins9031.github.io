@@ -1,0 +1,61 @@
+/*8 background */
+body {
+  background-color: #FFC107;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+ text-decoration: none;
+} 
+
+a {
+ 
+  }
+
+/*8 top title*/
+h1 {
+  color: #D50000;
+  
+}
+
+/*8 call to action*/
+h5 {
+  color: #1A237E;
+}
+    height: 100%;
+    width: 40%;
+    /* text-align: center; */
+    margin: 0 auto;
+
+
+li {
+  margin-left: 50px;
+}
+
+/*8 nav bar*/
+.ul-element {
+    height: 100%;
+    width: 40%;
+    margin: 0 auto;
+    
+}
+.ul-element li { 
+    height: 100%;
+    width: 33%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav {
+  background-color: #1B5E20;
+  
+}
+
+/*8 site body*/ 
