@@ -27,7 +27,7 @@ h1 {
 
 /*8 call to action*/
 h5 {
-  color: #FFB300;
+  color: #4527A0;
 }
     height: 100%;
     width: 40%;
@@ -51,6 +51,7 @@ li {
     width: 33%;
     margin: 0 auto;
     text-align: center;
+    color: #FFC107;
 }
 
 nav {
