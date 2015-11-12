@@ -44,14 +44,13 @@ li {
     height: 100%;
     width: 40%;
     margin: 0 auto;
-    
+    text-decoration: #FFC107;
 }
 .ul-element li { 
     height: 100%;
     width: 33%;
     margin: 0 auto;
     text-align: center;
-    text-decoration: #FFC107;
 }
 
 nav {
