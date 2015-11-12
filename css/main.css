@@ -1,6 +1,6 @@
 /*8 background */
 body {
-  background-color: #283593;
+  background-color: #1A23;
 }
 
 #wrapper {
@@ -21,13 +21,13 @@ a {
 
 /*8 top title*/
 h1 {
-  color: #DD2C00;
+  color: #D50000;
   
 }
 
 /*8 call to action*/
 h5 {
-  color: #000000;
+  color: #1A237E;
 }
     height: 100%;
     width: 40%;
@@ -44,7 +44,7 @@ li {
     height: 100%;
     width: 40%;
     margin: 0 auto;
-    text-decoration: #FFC107;
+    
 }
 .ul-element li { 
     height: 100%;
