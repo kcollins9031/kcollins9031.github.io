@@ -27,16 +27,15 @@ h1 {
 }
 
 /*8 call to action*/
-h4 {
-  color: #1A237E;
-}
+
 h5 {
   color: #1A237E;
+  margin-left: 50px;
+  margin-right: 50px;
 }
     height: 100%;
     width: 40%;
     /* text-align: center; */
-    margin: 50px;
 
 
 li {
