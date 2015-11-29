@@ -27,7 +27,10 @@ h1 {
 }
 
 /*8 call to action*/
-h4, h5 {
+h4 {
+  color: #1A237E;
+}
+h5 {
   color: #1A237E;
 }
     height: 100%;
