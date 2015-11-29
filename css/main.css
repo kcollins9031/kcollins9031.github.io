@@ -64,5 +64,8 @@ nav {
 p{
   margin-left: 150px;
   margin-right: 150px;
-  margin-bottom: 75px;
+}
+
+footer{
+    margin-top: 75px;
 }
